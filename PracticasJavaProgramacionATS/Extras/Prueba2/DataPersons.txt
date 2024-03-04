@@ -1,0 +1,3 @@
+0222222;Pepito;Pueblo;02/05/1985
+0111111;Maria;Garcia;05/02/1999
+0444444;Pedro;Paramo;02/08/1989

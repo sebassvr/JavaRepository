@@ -1,0 +1,7 @@
+Español,
+Ingles,
+Matematicas,
+Geografía,
+Ciencias Naturales,
+Física,
+Quimica,

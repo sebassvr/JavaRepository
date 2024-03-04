@@ -1,0 +1,2 @@
+0001;Fido;perro;mestizo;cafe
+0002;Caramelo;gato;angora;blanco
